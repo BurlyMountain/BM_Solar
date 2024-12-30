@@ -1,6 +1,6 @@
 # BM_Solar 
 
-This little PCB uses a Texas Instruments bq25185 chip to act as a solar charge controller and battery managment system for single cell Lithium Polymer, Lithium Ion, and Lithium Phosphate batteries.
+This little PCB uses a Texas Instruments bq25185 chip to act as a solar charge controller and battery managment system for single cell Lithium Polymer, Lithium Ion, or Lithium Phosphate batteries.
 
 It was designed specifically to act as a hat for Waveshare RP2040-LoRa boards. It is the same footprint and will solder directly on the backside of a RP2040-LoRa board.
 
