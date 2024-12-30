@@ -9,6 +9,7 @@ It was designed specifically to act as a hat for Waveshare RP2040-LoRa boards. I
 # Specifications
 
 - 1A max charge rate (limited by solar input)
+    - *can be adjusted by changing the value of R2*
 - Stable 4.5V output to a device
 - 3-18V solar input voltage
 - Automatically switches to battery power once solar drops below 3V
@@ -16,3 +17,8 @@ It was designed specifically to act as a hat for Waveshare RP2040-LoRa boards. I
 - Much more efficient than built in solar charging on most Meshtastic boards with near MPPT efficiency
 - Selectable charge profile between LiPo/LiIon and LFP with an easy jumper
 - built in voltage divider for battery voltage monitoring
+
+
+---
+
+In the near future this board will be for sale on https://burlymountan.com
